@@ -13,12 +13,14 @@ A full-featured todo list application with an integrated timer and daily motivat
 - Mark todos as completed with checkbox
 - Persistent storage using localStorage
 - Clean and intuitive interface
+<img width="1920" height="1080" alt="Screenshot (7728)" src="https://github.com/user-attachments/assets/010d06c2-5092-4257-9017-708ecd0488bc" />
 
 ### ⏱️ Timer Functionality
 - Global timer accessible across pages
 - Timer page with dedicated controls
 - Fullscreen timer mode for focus sessions
 - Track work sessions with multiple timers
+<img width="1920" height="1080" alt="Screenshot (7730)" src="https://github.com/user-attachments/assets/3da4ca64-495c-469a-8b60-9bde0ac4ba43" />
 
 ### 💭 Daily Quotes
 - Fetches motivational quotes from API
@@ -26,11 +28,14 @@ A full-featured todo list application with an integrated timer and daily motivat
 - Helps maintain motivation while working
 - Error handling for API failures
 
+
 ### 🎨 UI/UX
 - Dark theme optimized for long work sessions
 - Responsive design for all devices
 - Smooth navigation between pages
 - Toast notifications for user feedback
+
+<img width="1920" height="1080" alt="Screenshot (7732)" src="https://github.com/user-attachments/assets/16f54578-105a-4582-af41-2ccf6fa11a3b" />
 
 ## 🛠️ Tech Stack
 
